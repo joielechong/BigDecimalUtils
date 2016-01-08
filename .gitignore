@@ -1,0 +1,16 @@
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+#Linux
+.directory
