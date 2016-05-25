@@ -70,7 +70,7 @@ Add robust check for numeric string input.
 
 > Joielechong | [www.rilixtech.com](http://www.rilixtech.com/) | [twitter](https://twitter.com/joielechong)
 
-> Hirondelle Systems | [http://www.javapractices.com/](http://www.javapractices.com/)
+> Hirondelle Systems | [www.javapractices.com](http://www.javapractices.com/)
 
 #License
 
