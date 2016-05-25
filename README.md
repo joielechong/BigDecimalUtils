@@ -18,7 +18,7 @@ How It Work
 ------------------------
 - Import library to your code:
 ```java
-	import static com.github.joielechong.currencytextcounter.util.BigDecimalUtils.*;
+	import static com.github.joielechong.BigDecimalUtils.*;
 ```
 - Doing comparison:
 ```java
@@ -70,7 +70,7 @@ Add robust check for numeric string input.
 
 > Joielechong | [www.rilixtech.com](http://www.rilixtech.com/) | [twitter](https://twitter.com/joielechong)
 
-> Hirondelle Systems | [http://www.javapractices.com/)
+> Hirondelle Systems | [http://www.javapractices.com/](http://www.javapractices.com/)
 
 #License
 
